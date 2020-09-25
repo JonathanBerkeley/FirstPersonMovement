@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FPSMovement : MonoBehaviour
+public class FPMovement : MonoBehaviour
 {
     Vector2 pub_rotation = Vector2.zero;
     [Range(0.5f, 10.0f)]
