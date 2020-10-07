@@ -14,5 +14,6 @@ S = Back <br/>
 D = Right <br/>
 Space bar = Up <br/>
 CTRL = Down <br/>
-Shift = Speed boost
+Shift = Speed boost <br/>
 
+P = Pause camera look
