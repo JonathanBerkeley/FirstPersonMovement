@@ -17,7 +17,6 @@ public class FPMovement : MonoBehaviour
     }
     void Update()
     {
-        //Move();
         //ForceCollide();
         MouseLook();
         EventKeys();
