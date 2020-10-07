@@ -18,7 +18,7 @@ public class FPMovement : MonoBehaviour
     void Update()
     {
         //Move();
-        ForceCollide();
+        //ForceCollide();
         MouseLook();
         EventKeys();
     }
@@ -121,6 +121,7 @@ public class FPMovement : MonoBehaviour
     {
         moveSpeed += moveSpeed;
     }
+    /*
     void ForceCollide()
     {
         if (transform.position.y <= 0.6f)
@@ -129,6 +130,7 @@ public class FPMovement : MonoBehaviour
             transform.position = new Vector3(transform.position.x, 0.6f, transform.position.z);
         }
     }
+    */
     void MouseLook()
     {
         //Pause mouselook key
