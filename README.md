@@ -8,7 +8,7 @@ Attach script directly to main camera you want to move around in the running gam
 # Controls
 The inputs are independent to the input manager, so these controls should remain even if input controls have been changed.
 
-W = Foward <br/>
+W = Forward <br/>
 A = Left <br/>
 S = Back <br/>
 D = Right <br/>
