@@ -1,4 +1,7 @@
-# unity_firstPersonMovement
+# Archived
+Created while learning basics of Unity and C#, now archived.
+
+# FirstPersonMovement
 First person movement script for unity.
 
 This is not intended for first person movement for a movement based game.
